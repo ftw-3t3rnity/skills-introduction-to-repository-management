@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ftw-3t3rnity
+/src/backend/database.py      @ftw-3t3rnity
+/src/backend/routers/auth.py  @ftw-3t3rnity
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ftw-3t3rnity
